@@ -1,0 +1,1198 @@
+2014-01-07 16:39:58 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 567
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:39:58 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 567
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:39:58 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 567
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:39:58 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 567
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:39:58 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:05 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:05 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:05 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:05 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:05 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:05 Notice: Notice (8): Undefined index: file in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Controller/FileuploadsController.php, line 99]
+Trace:
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 99
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:10 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:10 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:10 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:10 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:10 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:22 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:22 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:22 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:22 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:22 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:22 Notice: Notice (8): Undefined index: file in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Controller/FileuploadsController.php, line 99]
+Trace:
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 99
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:29 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:29 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:29 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:29 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:29 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:39 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:39 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:39 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:39 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:39 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:40:39 Notice: Notice (8): Undefined index: file in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Controller/FileuploadsController.php, line 99]
+Trace:
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 99
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:55:59 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:55:59 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:55:59 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:55:59 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:55:59 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:57:40 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:57:40 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:57:40 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:57:40 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 16:57:40 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:22 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:22 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:22 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:22 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:22 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:29 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:29 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:29 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:29 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:29 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 738
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 367
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 405
+FileuploadsController::add() - APP/Controller/FileuploadsController.php, line 67
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:31 Notice: Strict (2048): Declaration of FileUploadBehavior::setUp() should be compatible with ModelBehavior::setup(Model $model, $config = Array) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:31 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeValidate() should be compatible with ModelBehavior::beforeValidate(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:31 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeSave() should be compatible with ModelBehavior::beforeSave(Model $model) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:31 Notice: Strict (2048): Declaration of FileUploadBehavior::beforeDelete() should be compatible with ModelBehavior::beforeDelete(Model $model, $cascade = true) in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/app/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30]
+Trace:
+include - APP/Plugin/file_upload/Model/Behavior/FileUploadBehavior.php, line 30
+App::load() - CORE/Cake/Core/App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 122
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-01-07 18:15:31 Notice: Strict (2048): Only variables should be passed by reference in [/Applications/XAMPP/xamppfiles/htdocs/hws_donki/trunk/lib/Cake/Model/BehaviorCollection.php, line 150]
+Trace:
+BehaviorCollection::load() - CORE/Cake/Model/BehaviorCollection.php, line 150
+BehaviorCollection::init() - CORE/Cake/Model/BehaviorCollection.php, line 68
+Model::__construct() - CORE/Cake/Model/Model.php, line 748
+ReflectionClass::newInstance() - [internal], line ??
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 168
+FormHelper::_getModel() - CORE/Cake/View/Helper/FormHelper.php, line 148
+FormHelper::_introspectModel() - CORE/Cake/View/Helper/FormHelper.php, line 188
+FormHelper::create() - CORE/Cake/View/Helper/FormHelper.php, line 338
+include - APP/View/Fileuploads/add.ctp, line 133
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
